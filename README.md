@@ -1,2 +1,2 @@
-# Sistemas-Digitais-Ca-ticos
-SDC são sistemas dinamicos que exibem comportamentos caóticos e são implementados em hadware digitais, como FPGA. 
+# Sistemas-Digitais-Caóticos
+SDC são sistemas dinâmicos que exibem comportamentos caóticos e são implementados em hardware digitais, como FPGA. 
